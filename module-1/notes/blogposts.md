@@ -1,6 +1,6 @@
-#Blog Posts
+# Blog Posts
 
-##Numbers
+## Numbers
 
 1. Why Data Science?
 2. Anything
