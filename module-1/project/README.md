@@ -1,13 +1,13 @@
 # Mod 1 Project Instructions
 
 
-## Congratulations! 
+## Congratulations!
 
-Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a **new movie studio**, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry. 
+Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a **new movie studio**, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
 
-Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating. 
+Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
 
-## Methodology 
+## Methodology
 Some areas you can look to examine are movie genres (Thriller, Drama, Comedy, etc.), movie ratings, budget, social media discussion, and critic or user reviews. Your team gets to define its _own questions_ about the movie industry and then use its knowledge of descriptive statistics and the EDA process to try and answer those questions. <br>
 Questions to consider:
 - How are you defining _success_ ?
@@ -17,7 +17,7 @@ Questions to consider:
  - Social media buzz?
 
 ## Data Sources
-Microsoft has provided some data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org. You are not limited to these data sets! If you find other useful data on the web, you are welcome to include it (but this is not a requirement).
+Microsoft has provided some data from Box Office Mojo, IMDB, Rotten Tomatoes, and TheMovieDB.org. You are not limited to these data sets! If you find othedr useful data on the web, you are welcome to include it (but this is not a requirement).
 
 All data lives in [`./zippedData/`](./zippedData).<br>
 Be sure to make a directory named 'data'.<br>
@@ -100,41 +100,41 @@ Be prepared to answer questions such as:
    - [ ] A pdf of no more than 8 slides used in project presentation targeting non-technical audience
      - [ ] Apply consistent and effective formatting to create a “professional” appearing deck
      - [ ] Write an abbreviated high-level overview of methodology
-     - [ ] Justify at least 2 concrete recommendations 
+     - [ ] Justify at least 2 concrete recommendations
      - [ ] include exported visualizations from analysis
      - [ ] Target the presentation to a _non-technical audience_, avoid jargon
      - [ ] Take no more than 5 minutes to present
- 
+
 ## Specifics:
 ### This project is in groups. Groups will be announced on Saturday!
 
 ### Timeline
 
-Wednesday - Project Assignment 
+Wednesday - Project Assignment
  - schedule Monday check in with coach (TBD)
 
 Saturday - Groups assigned
 
-Monday - Check in with coaches 
+Monday - Check in with coaches
  - review data cleaning
  - provide url of project repository
  - review at least one table/chart
  - review work plan created for how teammates will approach and divide work
- 
-Tuesday - Demo presentation with feedback from instructors 
+
+Tuesday - Demo presentation with feedback from instructors
  - have polished draft of deck completed
  - have polished version of jupyter notebook completed
- 
-Wednesday 
+
+Wednesday
  - afternoon project presentation
  - mini science fair open to staff and fellow students
 
 ### Project Review
 If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
- - Perform additional data cleanup, visualization, and/or feature selection 
+ - Perform additional data cleanup, visualization, and/or feature selection
  - Submit an improved version
  - Meet again for another Project Presentation
- 
+
 What won't happen:
  - You won't be yelled at, belittled, or scolded
  - You won't be put on the spot without support
