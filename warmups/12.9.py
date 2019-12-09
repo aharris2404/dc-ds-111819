@@ -1,14 +1,21 @@
-def sum_ages(dict_of_dict):
+def sum_ages(d):
 
     sum = 0
 
-    for element in dict_of_dict:
-        if element == 'age':
-            return dict_of_dict['age']
-        elif type(dict_of_dict[element]) is not dict and type(dict_of_dict[element]) is not list:
-            continue
-        else:
-            return sum + sum_ages(dict_of_dict[element])
+    for i, element in enumerate(d):
+        
+        if element == 'age': #base case
+            print('hit base case with age = ' + str(d['age']))
+            return d['age']
+
+        if isinstance(d, dict):
+            if isinstance(d[element], dict) or isinstance(d[element], list):
+                return sum + sum_ages(d[element])
+            else:
+                continue
+
+        if isinstance(d, list):
+            return sum + sum_ages(d[i])
 
 print(sum_ages({"school_roster": {
     "in_session": "yes",
